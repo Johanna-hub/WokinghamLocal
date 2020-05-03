@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Wokingham Local.Life`,
     description: `Getting the word out for the local community and businesses during the COVID-19 lockdown`,
-    image: "/images/brixton.jpeg",
+    image: "/images/wokingham.jpeg",
     url: "https://www.wokinghamlocal.life"
   },
   plugins: [
